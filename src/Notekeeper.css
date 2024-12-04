@@ -66,3 +66,11 @@ button:hover {
     border: 1px solid #ccc;
     border-radius: 5px;
 }
+::-webkit-scrollbar {
+    width: 4px;
+    background: #333131;
+}
+::-webkit-scrollbar-thumb {
+  background: #ade1ff;
+  border-radius: 4px;
+}
