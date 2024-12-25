@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://66d19f5362816af9a4f44d1d.mockapi.io/notes';
+const API_URL = 'https://66d19f5362816af9a4f44d1d.mockapi.io/Google-think-note';
 
 export const getData = async () => {
     try {
